@@ -1,0 +1,22 @@
+# Local environments and editor settings
+.venv/
+venv/
+.env
+.vscode/
+
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Private source material and raw data
+private_references/
+data/
+work/
+*.pdf
+*_holdings.json
+
+# Operating-system files
+.DS_Store
+Thumbs.db
